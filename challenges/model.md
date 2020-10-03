@@ -4,6 +4,8 @@
 
 **Nickname:** danielhe4rt
 
+**Descrição:** Fale o que tem que ser feito no desafio em questão.
+
 **Nível Técnico:** - Estudante/Estagiário/Junior/Pleno/Senior -
 
 **Twitter**: https://twitter.com/danielhe4rt (opcional)
