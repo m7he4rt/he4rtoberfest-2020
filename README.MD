@@ -39,7 +39,7 @@ A ideia se baseia em pegar exercicios de faculdade, desde o mais simples até o 
 
 Na lista abaixo estarão todos os exercicios que iremos aceitar nos nossos pull request. 
 
-- [0 - Hello World (não irá contar)](link-primeira-parte)
+- [0 - Hello World (não irá contar)](./challenges/0-hello-world/readme.md)
 - [1 - Média de alunos](./challenges/1-media-alunos/README.md)
 - [2 - Conversão de metros para centímetros e milímetros](./challenges/2-conversao-medidas/README.md)
 - [3 - Tabuada](./challenges/3-tabuada/README.md)
