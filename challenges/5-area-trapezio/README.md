@@ -12,7 +12,7 @@
 
 **Nível Técnico:** - Estudante
 
-**Twitter**: https://twitter.com/m7he4rt (opcional)
+**Twitter**: https://twitter.com/m7he4rt
 
 **Dificuldade de Resolução:** - Baixa
 
