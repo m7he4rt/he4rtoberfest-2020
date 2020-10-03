@@ -40,6 +40,11 @@ A ideia se baseia em pegar exercicios de faculdade, desde o mais simples até o 
 Na lista abaixo estarão todos os exercicios que iremos aceitar nos nossos pull request. 
 
 - [0 - Hello World (não irá contar)](link-primeira-parte)
+- [1 - Média de alunos](./challenges/1-media-alunos/README.md)
+- [2 - Conversão de metros para centímetros e milímetros](./challenges/2-conversao-medidas/README.md)
+- [3 - Tabuada](./challenges/3-tabuada/README.md)
+- [4 - Conversão de moedas](./challenges/4-conversao-moedas/README.md)
+- [5 - Área de um trapézio](./challenges/5-area-trapezio/README.md)
 
 Caso você queira dar sugestões de desafios, contate algum moderador no [Discord da He4rt](https://discord.gg/he4rt).
   
@@ -60,14 +65,18 @@ A ideia do desafio 0 é deixar registrado todos os participantes do He4rtoberfes
 Quando você for criar a branch para mandar o Pull Request, você deverá seguir o exemplo abaixo:
 
 1. Realize um Fork do projeto
-2. Crie uma pasta no diretório `challenges/challenge_id/lang/nickname
-3. Resolva o desafio 
-4. Copie o [model.md](/challenges/model.md) para a sua pasta, renomeie o arquivo para **[README.MD]()** e preencha com as informações descritas
-5. Crie um branch com o desafio seguindo o modelo ao lado (`git checkout -b challenges/challenge_id/lang/nickname`)
-6. O exemplo acima ficaria assim do desafio 0 feito em PHP: (`git checkout -b challenges/0/php/danielhe4rt`)
-7. Realize o Commit (`git commit -m 'Finalizando o desafio'`)
-8. Realize o Push no Branch (`git push origin challenges/challenge_id/lang/nickname`)
-9. Abra um Pull Request
+2. Vá até o repositório do fork no seu github e na parte code copie o link para clonar
+3. Abra o terminal, escolha uma pasta de sua preferência e faça um clone git clone cole o link que você copiou
+4. Crie uma pasta da linguagem que você escolheu no diretório challenges/id_challenge/lang/
+5. Depois dentro desta pasta lang crie a pasta com seu nickname ficando assim challenges/id_challenge/lang/nickname
+6. Resolva o desafio
+7. Copie o model.md para a sua pasta e preencha com as informações descritas
+8. Crie um branch com o desafio seguindo o modelo ao lado (git checkout -b challenges/id_challenge/lang/nickname)
+9. O exemplo acima ficaria assim do desafio 0 feito em PHP: (git checkout -b challenges/0/php/danielhe4rt)
+10. Depois faça git add . ou git add (challenges/0/php/)
+11. Realize o Commit (git commit -m 'Finalizando o desafio')
+12. Realize o Push no Branch (git push origin challenges/id_challenge/lang/nickname)
+13. Abra um Pull Request
 
 ## Revisão de Pull Requests
 
