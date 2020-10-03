@@ -1,20 +1,17 @@
-# Submissão de Exercicio
+# Desafio #1
 
-**Exercicio:** 1 - Média de alunos
+**Nome:** 1 - Média de alunos
 
-**Nickname:** m7he4rt
+**Descrição:** Desenvolva um programa que leia as duas notas de um aluno e calcule a sua média aritmética.
 
-**Descrição:** Desenvolva um programa que leia as duas notas de um aluno, e calcule a sua média aritmética.
+**Input/Args**: Recebe duas entradas de input.
 
-**Nível Técnico:** - Estudante
+**Output**: Retorna uma saída com o resultado da operação.
 
-**Twitter**: https://twitter.com/m7he4rt
+```js
+// exemplo de função que recebe args
+const funcao = (nota1, nota2) => {...}
 
-**Dificuldade de Resolução:** - Baixa
-
-**Como rodar o desafio**: 
-
-Use o comando abaixo: 
-```bash
-  node media.js
+// exemplo de output
+"O resultado da média é: 6"
 ```

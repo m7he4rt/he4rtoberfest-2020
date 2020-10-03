@@ -1,20 +1,28 @@
-# Submissão de Exercicio
+# Desafio #3
 
-**Exercicio:** 3 - Tabuada
+**Nome:** 3 - Tabuada
 
-**Nickname:** m7he4rt
+**Descrição:** Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada até o número 10.
 
-**Descrição:** Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+**Input/Args**: Recebe uma entrada de input.
 
-**Nível Técnico:** - Estudante
+**Output**: Retorna apenas um saída com o resultado da tabuada.
 
-**Twitter**: https://twitter.com/m7he4rt
+```js
+// exemplo de função para receber um input
+const funcao = (num) => {...}
 
-**Dificuldade de Resolução:** - Baixa
-
-**Como rodar o desafio**: 
-
-Use o comando abaixo: 
-```bash
-  node tabuada.js
+// exemplo de output
+"A tabuada do numero 2 é: 
+  2*1 = 2
+  2*2 = 4
+  2*3 = 6
+  2*4 = 8
+  2*5 = 10
+  2*6 = 12
+  2*7 = 14
+  2*8 = 16
+  2*9 = 18
+  2*10 = 20
+"
 ```

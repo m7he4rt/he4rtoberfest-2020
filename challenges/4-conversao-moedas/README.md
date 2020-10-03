@@ -1,20 +1,17 @@
-# Submissão de Exercicio
+# Desafio #4
 
-**Exercicio:** 4 - Conversão de moedas
-
-**Nickname:** m7he4rt
+**Nome:** 4 - Conversão de moedas
 
 **Descrição:** Crie um programa que faça a conversão da moeda R$(BRL) para US$(Dolár) com a cotação mais atual possível.
 
-**Nível Técnico:** - Estudante
+**Input/Args**: Recebe uma entrada de input.
 
-**Twitter**: https://twitter.com/m7he4rt
+**Output**: Retorna uma saída com o resultado da conversão.
 
-**Dificuldade de Resolução:** - Baixa
+```js
+// exemplo de função para receber um input
+const funcao = (num) => {...}
 
-**Como rodar o desafio**: 
-
-Use o comando abaixo: 
-```bash
-  node conversao.js
+// exemplo de output
+"A conversão de R$1,00 para dolár é: 5,68"
 ```

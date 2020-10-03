@@ -1,20 +1,18 @@
-# Submissão de Exercicio
+# Desafio #2
 
-**Exercicio:** 2 - Conversão de medidas
-
-**Nickname:** m7he4rt
+**Nome:** 2 - Conversão de medidas
 
 **Descrição:** Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
-**Nível Técnico:** - Estudante
+**Input/Args**: Recebe uma entrada de input.
 
-**Twitter**: https://twitter.com/m7he4rt
+**Output**: Retorna uma saída com dois resultados.
 
-**Dificuldade de Resolução:** - Baixa
+```js
+// exemplo de função para receber um input
+const funcao = (metros) => {...}
 
-**Como rodar o desafio**: 
-
-Use o comando abaixo: 
-```bash
-  node conversao.js
+// exemplo de output
+"A conversão para centímetros é: 100"
+"A conversão para centímetros é: 1000"
 ```
