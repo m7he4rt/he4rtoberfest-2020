@@ -8,14 +8,10 @@
   A = (baseMaior + baseMenor) * altura / 2
 ```
 
-**Input/Args**: Recebe três entradas input.
+**Input/Args**: A entrada contém três valores inteiros ou decimais.
 
 **Output**: Retorna o valor da área do trapézio.
 
-```js
-// exemplo de função para receber um input
-const funcao = (baseMaior, baseMenor, altura) => {...}
-
-// exemplo de output
-"A área do trapézio é: 20"
-```
+| Exemplo de entrada | Exemplo de saída |
+| ------------------ | ---------------- |
+| 3 5 6              | 24               |

@@ -4,14 +4,10 @@
 
 **Descrição:** Desenvolva um programa que leia as duas notas de um aluno e calcule a sua média aritmética.
 
-**Input/Args**: Recebe duas entradas de input.
+**Input/Args**: A entrada contém dois valores inteiros ou decimais.
 
 **Output**: Retorna uma saída com o resultado da operação.
 
-```js
-// exemplo de função que recebe args
-const funcao = (nota1, nota2) => {...}
-
-// exemplo de output
-"O resultado da média é: 6"
-```
+| Exemplo de entrada | Exemplo de saída |
+| ------------------ | ---------------- |
+| 10 12              | 11               |

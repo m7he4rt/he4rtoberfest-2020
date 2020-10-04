@@ -4,14 +4,10 @@
 
 **Descrição:** Crie um programa que faça a conversão da moeda R$(BRL) para US$(Dolár) com a cotação mais atual possível.
 
-**Input/Args**: Recebe uma entrada de input.
+**Input/Args**: A entrada contém um valor inteiro ou decimal.
 
 **Output**: Retorna uma saída com o resultado da conversão.
 
-```js
-// exemplo de função para receber um input
-const funcao = (num) => {...}
-
-// exemplo de output
-"A conversão de R$1,00 para dolár é: 5,68"
-```
+| Exemplo de entrada | Exemplo de saída |
+| ------------------ | ---------------- |
+| 1                  | 5,68             |

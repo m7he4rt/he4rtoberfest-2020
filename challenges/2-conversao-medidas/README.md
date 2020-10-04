@@ -4,15 +4,11 @@
 
 **Descrição:** Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
-**Input/Args**: Recebe uma entrada de input.
+**Input/Args**: A entrada contém um valor inteiro ou decimal.
 
-**Output**: Retorna uma saída com dois resultados.
+**Output**: Retorna uma saída com dois resultados. (Você pode imprimir a saída conforme o exemplo fornecido).
 
-```js
-// exemplo de função para receber um input
-const funcao = (metros) => {...}
-
-// exemplo de output
-"A conversão para centímetros é: 100"
-"A conversão para centímetros é: 1000"
-```
+| Exemplo de entrada | Exemplo de saída |
+| ------------------ | ---------------- |
+| 1                  | A conversão para centímetros é: 100 |
+|                    | A conversão para milímetros é: 1000 |
