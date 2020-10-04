@@ -1,10 +1,8 @@
 <!-- Logo 4noobs -->
 
-<!-- <p align="center">
-  <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/header_4noobs.svg">
-  </a>
-</p> -->
+<p align="center">
+  <img src="./.github/logo.jpg">
+</p>
 
 <!-- Title -->
 
